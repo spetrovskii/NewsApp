@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="empty_text_view"></string>
+    <string name="author_text_view">Author Text View</string>
+    <string name="section_text_view">Section Text View</string>
+    <string name="date_text_view">Date Text View</string>
+    <string name="no_internet">Plese check your internet connection.</string>
+    <string name="no_data">No data to display.</string>
+</resources>
